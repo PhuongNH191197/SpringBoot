@@ -11,3 +11,8 @@ MySQL
 https://grokonez.com/spring-framework/spring-security/spring-security-jwt-authentication-restapis-springboot-spring-mvc-spring-security-spring-jpa-mysql#Technologies
 # Skip test
 https://grokonez.com/testing/unittest-maven-skip-test-springboot
+# Test Spring Boot
+All test spring boot mockito + Junit : https://kipalog.com/posts/Spring-Boot--18--Hu-o--ng-da--n-chi-tie--t-Test-Spring-Boot 
+Mockito Toàn tập : https://loda.me/test-huong-dan-toan-tap-mockito-loda1576641016810
+# Lombook 
+https://loda.me/general-huong-dan-su-dung-lombok-giup-code-java-nhanh-hon-69-loda1552789752787/
